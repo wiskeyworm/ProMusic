@@ -60,12 +60,12 @@ async def start_private(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to a Group ➕",
+                        "👻 Add me to a Group",
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
                 ],
                 [
                     InlineKeyboardButton("📚 Commands", url=f"https://telegra.ph/PRO-MUSIC-COMMANDS-12-23"),
-                    InlineKeyboardButton("❤️ Donate", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("Donate🍸", url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -75,10 +75,10 @@ async def start_private(client: Client, message: Message):
                         "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
                     )
                 ],
-                [InlineKeyboardButton("🌐 WebSite", url=f"http://decodebugs.netlify.app/")],
+                [InlineKeyboardButton("Network", url=f"http://t.me/Raze_Network")],
                 [
                     InlineKeyboardButton(
-                        "💕 Source", url="https://github.com/BrayDanXD/ProMusic"
+                        "💕 Owner", url="https://t.me/xdacchux"
                     )
                 ],
             ]
