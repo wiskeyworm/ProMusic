@@ -552,7 +552,7 @@ async def ytplay(_, message: Message):
 
     except Exception as e:
         await lel.edit(
-            "✌**/𝐏𝐋𝐀𝐘 𝐊𝐄 𝐁𝐀𝐃 𝐒𝐎𝐍𝐆🌺 𝐊𝐀 𝐍𝐀𝐌 𝐁𝐇𝐈 𝐋𝐈𝐊𝐇𝐍𝐀 🙄𝐇𝐎𝐓𝐀 𝐇𝐀𝐈🥺🧿🤟**"
+            "✌**/𝐏𝐋𝐀𝐘 hakida mele Song🌺 Name Nu🙄Hakbeku🥺🧿🤟**"
         )
         print(str(e))
         return
@@ -572,9 +572,9 @@ async def ytplay(_, message: Message):
         [
             [
 
-                    InlineKeyboardButton(text="💫 𝙲𝙷𝙰𝙽𝙽𝙴𝙻✨", url=f"https://t.me/DeeCodeBots"),
+                    InlineKeyboardButton(text="💫 𝙲𝙷𝙰𝙽𝙽𝙴𝙻✨", url=f"https://t.me/RazeBots"),
 
-                    InlineKeyboardButton(text="💫𝚂𝚄𝙿𝙿𝙾𝚁T✨", url=f"https://t.me/DeCodeSupport")
+                    InlineKeyboardButton(text="💫𝚂𝚄𝙿𝙿𝙾𝚁T✨", url=f"https://t.me/RazeFriendszone")
 ]
             ]
     )
